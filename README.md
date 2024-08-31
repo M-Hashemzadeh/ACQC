@@ -23,5 +23,5 @@ N. Abdolmaleki, L. Mohammad Khanli, M. Hashemzadeh, and S. Pourbahrami, "ACQC: A
 
 2) Please do not distribute the database or source codes to others without the authorization from Dr. Mahdi Hashemzadeh (Corresponding author).
 
-Authors’ Emails: N.abdolmaleki[at]tabrizu.ac.ir (N. Abdolmaleki), l-khanli[at]tabrizu.ac.ir (L. M. Khanli), hashemzadeh[at]azaruniv.ac.ir (M. Hashemzadeh), sh.pourbahrami[at]tabrizu.ac.ir (S. Pourbahrami).
+Authors’ Emails: N.abdolmaleki[at]tabrizu.ac.ir (N. Abdolmaleki), l-khanli[at]tabrizu.ac.ir (L. M. Khanli), hashemzadeh[at]azaruniv.ac.ir (M. Hashemzadeh), and sh.pourbahrami[at]tabrizu.ac.ir (S. Pourbahrami).
 
